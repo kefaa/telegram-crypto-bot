@@ -1,0 +1,10 @@
+Flask
+beautifulsoup4
+gunicorn
+requests
+python-binance
+WTForms
+pytelegrambotapi
+matplotlib
+apscheduler
+hitbtcapi
